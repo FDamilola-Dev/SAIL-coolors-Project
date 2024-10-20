@@ -1,0 +1,27 @@
+/* .Btn {
+    display: flex;
+    border: 2px solid red;
+} */
+ .signIn{
+    border: none;
+    color: black;
+    background-color: transparent;
+    font-size: 15px;
+    font-weight: 500;
+    
+ } 
+
+ .signUpBtn{
+    background-color: #0066ff;
+    color: white;
+    padding: 8px 10px;
+    border-radius: 8px; border-color: transparent;
+    font-weight: 500;
+    font-size: 15px;
+    
+
+ }
+
+#generator{
+    border: 2px solid red;
+}
